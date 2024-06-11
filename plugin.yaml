@@ -1,6 +1,0 @@
-plugin:
-    name: 'pensoft.cropper::lang.plugin.name'
-    description: 'pensoft.cropper::lang.plugin.description'
-    author: Pensoft
-    icon: oc-icon-leaf
-    homepage: ''
